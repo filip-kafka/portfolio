@@ -1,5 +1,0 @@
-
-Message from Alex test@gmail.com with subject "TEST" 
-Test message
-Message from Natalka \(natalka@gmail.com\) with subject "Ahoj" 
-	Ahoj bobik
